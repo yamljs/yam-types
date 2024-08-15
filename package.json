@@ -1,11 +1,14 @@
 {
   "packageManager": "yarn@4.4.0",
   "name": "@yaml-js/types",
+  "description": "Simple library that provides TypeScript types for importing *.yaml and *.yml files.",
   "version": "${FROM TAG}",
+  "license": "MIT",
   "type": "module",
   "types": "./yaml-js.types.d.ts",
   "files": [
-    "./yaml-js.types.d.ts"
+    "./yaml-js.types.d.ts",
+    "./LICENSE"
   ],
   "exports": {
     ".": {
@@ -16,5 +19,16 @@
     "test": "exit 0",
     "deploy": "npm publish --access=public",
     "build": "exit 0"
-  }
+  },
+  "keywords": [
+    "yaml", "yml", "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaml-js/yaml-types"
+  },
+  "bugs": {
+    "url": "https://github.com/yaml-js/yaml-types/issues"
+  },
+  "homepage": "https://yaml-js.org",
 }
