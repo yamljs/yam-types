@@ -1,5 +1,5 @@
 # YAML Types
-[![Build](https://github.com/yaml-js/vite/actions/workflows/build.yml/badge.svg)](https://github.com/yaml-js/vite/actions/workflows/build.yml) [![CodeQL](https://github.com/yaml-js/vite/actions/workflows/codeql.yml/badge.svg)](https://github.com/yaml-js/vite/actions/workflows/codeql.yml) [![Downloads](https://img.shields.io/npm/d18m/%40yaml-js%2Ftypes)](https://www.npmjs.com/package/@yaml-js/types)
+[![Downloads](https://img.shields.io/npm/d18m/%40yaml-js%2Ftypes)](https://www.npmjs.com/package/@yaml-js/types)
 
 `@yaml-js/types` is a simple library that provides TypeScript types for importing `*.yaml` and `*.yml` files. This package is intended to be used as a dependency for other projects rather than on its own. For more information on tools that leverage this library, please visit the [yaml-js.org](https://yaml-js.org) website.
 
