@@ -18,13 +18,11 @@ yarn add -D @yaml-js/types
 Contributions to any `@yaml-js` project are welcome! Please refer to the [contributing guidelines](https://yaml.js.org/contrinuting) for more details on how to get involved.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
+This project is licensed under the MIT License. Please look at the [LICENSE](/LICENSE) file for more information.
 
 ## Acknowledgements
 * [Vite](https://vitejs.dev/) - The blazing fast frontend tooling.
 * [YAML](https://yaml.org/) - A human-friendly data serialization standard.
-* [yaml library](github.com/eemeli/yaml) - This fantastic library made our job easier by not having to build a YAML parser
-Contact
 
 ## Contacts for assistance
 - [@pedromvgomes](https://github.com/pedromvgomes) - **Pedro Gomes**, Project Founder
