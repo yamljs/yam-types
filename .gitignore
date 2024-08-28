@@ -6,6 +6,6 @@ lib
 build
 .yarn
 
-.vscode
+.vscode/*
 !.vscode/settings.json
 !.vscode/launch.json
